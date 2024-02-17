@@ -21,6 +21,7 @@ After that the code will do 2 things.
 ![image](https://github.com/Sh3lldon/FullBypass/assets/78950174/5b6e609d-30aa-49ea-9fb1-ce5f82ff082e)
 
 
+
 ![image](https://github.com/Sh3lldon/FullBypass/assets/78950174/3b81ccdf-b5c9-450d-93f1-b89996a94aee)
 
 As you can see we catch powershell FullLanguageMode reverse shell.
