@@ -1,0 +1,9 @@
+C:\Users\Magzhan Tursynkul\Documents\C#\AMSIBypass\AMSIBypass\bin\x64\Release\AMSIBypass.exe.config
+C:\Users\Magzhan Tursynkul\Documents\C#\AMSIBypass\AMSIBypass\bin\x64\Release\AMSIBypass.exe
+C:\Users\Magzhan Tursynkul\Documents\C#\AMSIBypass\AMSIBypass\bin\x64\Release\AMSIBypass.pdb
+C:\Users\Magzhan Tursynkul\Documents\C#\AMSIBypass\AMSIBypass\bin\x64\Release\System.Management.Automation.dll
+C:\Users\Magzhan Tursynkul\Documents\C#\AMSIBypass\AMSIBypass\obj\x64\Release\AMSIBypass.csproj.AssemblyReference.cache
+C:\Users\Magzhan Tursynkul\Documents\C#\AMSIBypass\AMSIBypass\obj\x64\Release\AMSIBypass.csproj.CoreCompileInputs.cache
+C:\Users\Magzhan Tursynkul\Documents\C#\AMSIBypass\AMSIBypass\obj\x64\Release\AMSIBypass.csproj.CopyComplete
+C:\Users\Magzhan Tursynkul\Documents\C#\AMSIBypass\AMSIBypass\obj\x64\Release\AMSIBypass.exe
+C:\Users\Magzhan Tursynkul\Documents\C#\AMSIBypass\AMSIBypass\obj\x64\Release\AMSIBypass.pdb
