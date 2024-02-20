@@ -27,8 +27,9 @@ namespace FullBypass
 
         public static int BypassAMSI()
         {
-	    Console.WriteLine("Author: Shelldon");
-	    Console.WriteLine("github: github.com/Sh3lldon");
+
+            Console.WriteLine("Author: Shelldon");
+            Console.WriteLine("github: github.com/Sh3lldon");
             Console.WriteLine("!!!! Please do not use in unethical hacking and follow all rules and regulations of laws!!!!");
 
             Process[] processes = Process.GetProcessesByName("powershell");
