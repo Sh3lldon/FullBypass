@@ -1,14 +1,15 @@
 # FullBypass
 A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell. Feel free to modiy and DM if you find some bugs :)
 
+```batch
 P.S Please do not use in unethical hacking and follow all rules and regulations of laws
-
+```
 
 Usage:
 
 First, Download the bypass.csproj file into the victim machine (Find writeable folder such as C:\Windows\Tasks or C:\Windows\Temp). After that just execute it with msbuild.exe.
 
-Example: C:\windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe .\FullBypass.csproj
+Example: ```batch C:\windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe .\FullBypass.csproj```
 
 
 After that the code will do 2 things.
