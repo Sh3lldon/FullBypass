@@ -11,6 +11,9 @@ namespace FullBypass
 {
     public class FullBypass
     {
+	Console.WriteLine("Author: Shelldon");
+	Console.WriteLine("github: github.com/Sh3lldon");
+	Console.WriteLine("!!!! Please do not use in unethical hacking and follow all rules and regulations of laws!!!!");
 
         [DllImport("kernel32.dll", SetLastError = true, CharSet = CharSet.Auto)]
         public static extern bool VirtualProtectEx(IntPtr hProcess, IntPtr lpAddress, uint dwSize, uint flNewProtect, out uint floldProtect);
