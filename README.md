@@ -14,12 +14,12 @@ Example: ```C:\windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe .\FullBy
 
 After that the code will do 2 things.
 
-1. Firstly code will bypass AMSI using memory hijacking method and will rewrite some instructions in AmsiScanBuffer fuction. With xor instruction the size argument will be 0 and AMSI cannot detect future scripts and command in powershell.
+1. Firstly code will bypass AMSI using memory hijacking method and will rewrite some instructions in AmsiScanBuffer function. With xor instruction the size argument will be 0 and AMSI cannot detect future scripts and command in powershell.
 
 ![image](https://github.com/Sh3lldon/FullBypass/assets/78950174/4a444b4d-cfd1-47fd-9cc7-b9e2b92a2f12)
 
 
-2. Finally it will ask you your attacker IP and port to give you a powershell FullLanguage Mode reverse shell.
+2. Finally it will ask you your IP and port to give you a powershell FullLanguage Mode reverse shell.
 
 ![image](https://github.com/Sh3lldon/FullBypass/assets/78950174/5b6e609d-30aa-49ea-9fb1-ce5f82ff082e)
 
