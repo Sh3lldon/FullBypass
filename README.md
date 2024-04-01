@@ -9,7 +9,7 @@ Usage:
 
 First, Download the bypass.csproj file into the victim machine (Find writeable folder such as C:\Windows\Tasks or C:\Windows\Temp). After that just execute it with msbuild.exe.
 
-Example: ```C:\windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe .\FullBypass.csproj```
+Example: ```C:\Windows\Microsoft.NET\Framework64\v4.0.30319\msbuild.exe .\FullBypass.csproj```
 
 
 After that the code will do 2 things.
