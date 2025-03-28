@@ -27,4 +27,4 @@ After that the code will do 2 things.
 
 ![image](https://github.com/Sh3lldon/FullBypass/assets/78950174/3b81ccdf-b5c9-450d-93f1-b89996a94aee)
 
-As you can see we catch powershell FullLanguageMode reverse shell.
+As you can see we catch powershell FullLanguageMode reverse shell. To load some modules and won't lost FullLanguageMode use .DownloadString method and IEX
